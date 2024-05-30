@@ -1,12 +1,7 @@
 
 
 # NovaNest E-Commerce
-Bir e-ticaret platformu oluşturarak tek bir satıcının geniş bir ürün ve hizmet 
-yelpazesini müşterilere sunmak ve bu süreci verimli bir şekilde yönetmektir. Bu 
-platform, müşterilere sunduğu geniş ürün çeşitliliği ile alışveriş deneyimlerini 
-zenginleştirirken, aynı zamanda satıcıya ürünlerini etkili bir şekilde sunma ve
-yönetme fırsatı sunar. Bu şekilde, platform hem müşterilere hem de satıcılara değer 
-sağlayarak başarılı bir e-ticaret deneyimi sunar.
+Bu projede, e-ticaret platformlarında ürün yorumlarından duygu analizi yapılarak kullanıcılara sepet tahminleri sunulması hedeflenmiştir. Doğal dil işleme (NLP) teknikleri kullanılarak, müşteri yorumlarından olumlu veya olumsuz yorum analizi yapılmıştır. Duygu analizi sonuçları, e-ticaret platformu yöneticilerine müşteri geri bildirimleri hakkında önemli içgörüler sağlayacaktır. Ayrıca, kullanıcı davranışlarını tahmin eden bir sepet tahmin sistemi geliştirilerek, geçmiş alışveriş alışkanlıklarına dayalı ürün önerileri ve sepet içeriği tahminleri sunulacaktır.
 ## Yardımcı Araç ve Kaynaklar
 MERN (MongoDB, Express.js, React.js, Node.js) stack ile projeler geliştirmek için 
 birçok faydalı araç ve kaynak bulunmaktadır. İşte bu teknolojilerle çalışırken 
